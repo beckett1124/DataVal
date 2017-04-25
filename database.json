@@ -1,0 +1,20 @@
+{
+  "test_result":[
+    {
+      "ip":"10.100.5.85",
+      "user":"product_readonly",
+      "password":"deDr7Toi29Sj&SkDS#LL",
+      "port":"2345",
+      "database":"test_result"
+    }
+  ],
+    "dm_result":[
+    {
+      "ip":"10.100.5.85",
+      "user":"product_readonly",
+      "password":"deDr7Toi29Sj&SkDS#LL",
+      "port":"2345",
+      "database":"dm_result"
+    }
+      ]
+}
