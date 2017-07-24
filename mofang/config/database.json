@@ -1,0 +1,47 @@
+{
+  "pre_release_result":[
+    {
+      "ip":"10.27.106.19",
+      "user":"product_readonly",
+      "password":"deDr7Toi29Sj&SkDS#LL",
+      "port":"2345",
+      "database":"pre_release_result"
+    }
+  ],
+  "test_result":[
+    {
+      "ip":"10.100.5.85",
+      "user":"product_readonly",
+      "password":"deDr7Toi29Sj&SkDS#LL",
+      "port":"2345",
+      "database":"test_result"
+    }
+  ],
+    "dm_result":[
+      {
+        "ip": "10.100.5.85",
+        "user": "product_readonly",
+        "password": "deDr7Toi29Sj&SkDS#LL",
+        "port": "2345",
+        "database": "dm_result"
+      }
+    ],
+     "dm_pv_fact":[
+       {
+         "ip":"10.27.106.88",
+         "user":"product_readonly",
+         "password":"SDjTty7202d7Dldfui",
+         "port":"2345",
+         "database":"dm_pv_fact"
+       }
+     ],
+    "v2_dm_pv_fact":[
+       {
+         "ip":"10.27.106.88",
+         "user":"product_readonly",
+         "password":"SDjTty7202d7Dldfui",
+         "port":"2345",
+         "database":"v2_dm_pv_fact"
+       }
+     ]
+}
